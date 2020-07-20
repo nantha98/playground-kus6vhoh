@@ -2,7 +2,7 @@
 
 This Java template lets you get started quickly with a simple one-page playground.
 
-```java runnable
+```java runnable hi hi hi
 // { autofold
 public class Main {
 
